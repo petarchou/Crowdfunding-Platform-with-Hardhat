@@ -11,7 +11,8 @@ If the funding goal is not reached, contributors will receive a refund on all of
 Technical Details:
 
 This project contains two main contracts:
-**CrowdfundingPlatform** - a Minimal Proxy factory which creates instances of the CrowdfundingProject contract. It is built via OpenZeppelin Clones and uses create2 for clone creation.
+**CrowdfundingPlatform** - a Minimal Proxy factory which creates instances of the CrowdfundingProject contract. <br>
+It is built via OpenZeppelin Clones and uses create2 for clone creation. <br>
 **CrowdfundingProject** - an ERC20Upgradable contract which represents the implementation for a crowdfunding project.
 
 The contracts are UNLICENSED
