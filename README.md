@@ -15,7 +15,7 @@ This project contains two main contracts:
 It is built via OpenZeppelin Clones and uses create2 for clone creation. <br>
 **CrowdfundingProject** - an ERC20Upgradable contract which represents the implementation for a crowdfunding project.
 
-The contracts are UNLICENSED
+The contracts are UNLICENSED. <br>
 Alchemy is used for project deployment
 
 
